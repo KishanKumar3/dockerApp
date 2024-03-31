@@ -1,0 +1,11 @@
+C:\Users\kishankumar01\Downloads\DevOps\webApp\dockerApp\dockerApp\obj\Release\net6.0\PubTmp\Out\dockerApp.exe
+C:\Users\kishankumar01\Downloads\DevOps\webApp\dockerApp\dockerApp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\kishankumar01\Downloads\DevOps\webApp\dockerApp\dockerApp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\kishankumar01\Downloads\DevOps\webApp\dockerApp\dockerApp\obj\Release\net6.0\PubTmp\Out\dockerApp.dll
+C:\Users\kishankumar01\Downloads\DevOps\webApp\dockerApp\dockerApp\obj\Release\net6.0\PubTmp\Out\dockerApp.deps.json
+C:\Users\kishankumar01\Downloads\DevOps\webApp\dockerApp\dockerApp\obj\Release\net6.0\PubTmp\Out\dockerApp.runtimeconfig.json
+C:\Users\kishankumar01\Downloads\DevOps\webApp\dockerApp\dockerApp\obj\Release\net6.0\PubTmp\Out\dockerApp.pdb
+C:\Users\kishankumar01\Downloads\DevOps\webApp\dockerApp\dockerApp\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\kishankumar01\Downloads\DevOps\webApp\dockerApp\dockerApp\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kishankumar01\Downloads\DevOps\webApp\dockerApp\dockerApp\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kishankumar01\Downloads\DevOps\webApp\dockerApp\dockerApp\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
