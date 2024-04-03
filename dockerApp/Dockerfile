@@ -7,10 +7,10 @@ EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src
-COPY ["dockerApp.csproj", "dockerApp/"]
+COPY ["dockerApp.csproj", "."]
 RUN dotnet restore "dockerApp.csproj"
 COPY . .
-WORKDIR "/src/dockerApp"
+WORKDIR "/src/."
 RUN dotnet build "dockerApp.csproj" -c Release -o /app/build
 
 FROM build AS publish
