@@ -12,7 +12,11 @@ pipeline {
 
         stage('Build docker image') {
             steps {  
-                sh 'docker build -t kishankumar3/devops:$BUILD_NUMBER .'
+                script {
+                    dir('dockerApp') {
+                        sh 'docker build -t kishankumar3/devops:$BUILD_NUMBER .'
+                    }
+                } 
             }
         }
         stage('login to dockerhub') {
