@@ -6,7 +6,7 @@ pipeline {
     stages { 
         stage('SCM Checkout') {
             steps{
-            git 'https://github.com/KishanKumar3/dockerApp.git'
+            git credentialsId: 'git', url: 'https://github.com/KishanKumar3/dockerApp.git', branch: 'main'
             }
         }
 
